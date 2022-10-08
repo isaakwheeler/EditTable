@@ -110,11 +110,11 @@
 				3FB328F628EE6E140020852A /* AppDelegate.swift */,
 				3FB328F828EE6E140020852A /* SceneDelegate.swift */,
 				3FB328FA28EE6E140020852A /* ViewController.swift */,
+				3FB3292A28EE70260020852A /* ItemList.swift */,
 				3FB328FC28EE6E140020852A /* Main.storyboard */,
 				3FB328FF28EE6E1B0020852A /* Assets.xcassets */,
 				3FB3290128EE6E1B0020852A /* LaunchScreen.storyboard */,
 				3FB3290428EE6E1B0020852A /* Info.plist */,
-				3FB3292A28EE70260020852A /* ItemList.swift */,
 			);
 			path = EditTable;
 			sourceTree = "<group>";
